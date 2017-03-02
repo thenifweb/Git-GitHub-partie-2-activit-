@@ -8,5 +8,5 @@ h1 {
 	to{color: #070058; text-shadow: 1px 1px 1px orange;}	
 }
 #hello-world {
-	animation:  titre-page 3s linear  infinite alternate;
+	animation:  hello-world 3s linear  infinite alternate;
 }
